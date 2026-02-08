@@ -1,5 +1,7 @@
 # Cédula Venezolana PSD 2026 - Plantilla Editable y Generador Online
 
+![Preview Plantilla Cédula Venezolana](https://img.lightshot.app/0EkT02jsRaSd9ufdvTvvUw.png)
+
 Optimiza tus proyectos de diseño con la mejor **plantilla de cédula venezolana en formato PSD**. Si buscas una solución rápida y profesional, utiliza nuestro generador directamente en la web.
 
 ### 🔗 Accede aquí: [Generador de Cédula Venezolana - Mundocs](https://mundocs.web.app/)
